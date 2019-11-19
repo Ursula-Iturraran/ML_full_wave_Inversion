@@ -1,8 +1,4 @@
-# ML_full_wave_Inversion
-
-
-# Machine learning as seismic velocity-model building method for full-waveform
-# inversion: A case study from the Middle Magdalena Valley in Colombia
+# Machine learning as seismic velocity-model building method for full-waveform inversion: A case study from the Middle Magdalena Valley in Colombia
 
 Authors: Ursula Iturraran-Viveros, Andres M. Munoz-Garcia and Octavio Castillo-Reyes
 
