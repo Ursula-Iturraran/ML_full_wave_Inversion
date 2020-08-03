@@ -20,6 +20,6 @@ Running the code
 ----------------
 The main code driver is invoked as follows:
 
-.. code-block:: bash
-
+```
   $ run Inversion1D_VpNN.m
+```
